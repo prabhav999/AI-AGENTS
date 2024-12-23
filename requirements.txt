@@ -1,0 +1,18 @@
+Phidata tools have been used for the agents: 
+# Core Dependencies
+agent
+groq
+python-dotenv
+
+# Web and Search Tools
+googlesearch-python
+yfinance
+
+# Additional PHI Tools
+phi
+
+# General Utilities
+requests
+beautifulsoup4
+pandas
+numpy
