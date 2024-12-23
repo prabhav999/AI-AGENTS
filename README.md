@@ -30,4 +30,4 @@ This project leverages the **LLaMA 3.3 70B versatile model** on **Groq Cloud** t
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/ai-agent-suite.git
-   cd ai-agent-suite
+   cd AI-AGENTS
